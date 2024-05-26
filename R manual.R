@@ -32,6 +32,18 @@
 # I dataframe sono concettualmente simili alle matrici, in cui per`o le colonne possono
 # contenere tipi di dati diversi.
 
+# Funzioni 
+# Funzioni Ricorsive: Le funzioni che si richiamano all’interno del proprio corpo.
+# Funzioni Anonime: Funzioni senza un nome definito, create utilizzando la sintassi function() direttamente all’interno di un’espressione.
+# Funzioni ad Alto Ordine: Funzioni che possono accettare altre funzioni come argomenti e/o restituirle come risultato.
+# Ambiente delle Funzioni: Contesto in cui le variabili locali vengono definite e valutate.
+# Passaggio per Riferimento vs Passaggio per Valore: Riferimento agli oggetti vs copia degli oggetti stessi.
 
+# Apply
+# lapply(): Applica una funzione ad ogni elemento di una lista. 
+# sapply(): Simile a lapply(), ma semplifica i risultati se possibile. 
+# vapply(): Simile a sapply(), ma richiede un tipo di output specificato. 
+# mapply(): Applica una funzione a piu` argomenti.
+# apply(): Applica una funzione a matrici o array multidimensionali.
 
 
